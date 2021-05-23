@@ -2,7 +2,9 @@
 
 ### am four owner of summrs and pro python  ~~skid~~ coder
 
-average 15 y/o who just plays games ( credits to the original users who gave me an idea to make this repo )
+average 15 y/o who just plays games 
+
+i would like to thank the original users who came up with the profile layout, this profile is for educational purposes!
 
 
 # Summrs 🤖
