@@ -12,6 +12,12 @@ i would like to thank the original users who came up with the profile layout, th
 ### summrs is an antinuke which is based on https://discord.com/ helping servers not get ruined or destroyed by petty users, it has multiple commands which can be found on our bot vote pages with a more brief description ( https://top.gg/bot/775591169626865665 )
 
 
+# Original Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=summrsW&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) </br>
+[![4CZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=summrsW&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Familiar Languages 🖥️
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="40"> - [[C#](https://docs.microsoft.com/en-us/dotnet/csharp/)] 
