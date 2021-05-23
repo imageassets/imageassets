@@ -2,6 +2,13 @@
 
 ### am four owner of summrs and pro python  ~~skid~~ coder
 
+average 15 y/o who just plays games 
+
+
+# Summrs 🤖
+
+### summrs is an antinuke which is based on https://discord.com/ helping servers not get ruined or destroyed by petty users, it has multiple commands which can be found on our bot vote pages with a more brief description ( https://top.gg/bot/775591169626865665 )
+
 
 # Familiar Languages 🖥️
 
@@ -14,7 +21,7 @@
 ### some languages i have some knowledge or planning to learn ^
 
 
-# Optional Programs
+# Optional Programs 🖥️
 
 <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" width="50"> - [[Electron](https://www.electronjs.org/)]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"> - [[Node.js](https://nodejs.org/en/)]
