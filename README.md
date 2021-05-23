@@ -23,13 +23,13 @@ average 15 y/o who just plays games
 
 # Optional Programs 🖥️
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" width="50"> - [[Electron](https://www.electronjs.org/)]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"> - [[Node.js](https://nodejs.org/en/)]
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/visualstudio/visualstudio-plain.svg" width="50"> - [[VStudio](https://visualstudio.microsoft.com/)]
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" width="50"> - [[MongoDB](https://www.mongodb.com/)]
+<img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" width="50"> - [[Electron](https://www.electronjs.org/)]
 <img src="http://blog.unisecure.com/wp-content/uploads/2015/05/cloud-sql-database-.png" width="50"> - [[CSql](https://cloud.google.com/sql)]
 <img src="https://www.mementotech.in/assets/images/icons/express.png" width="50"> - [[Express](https://expressjs.com/)]
 <img src ="https://blog.leonhassan.co.uk/content/images/2019/06/visual-studio-code.svg" width="50"> - [[VsCode](https://code.visualstudio.com/)]
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" width="50"> - [[MongoDB](https://www.mongodb.com/)]
 
 # Profile Views 🌎
 
