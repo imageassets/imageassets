@@ -29,7 +29,6 @@ i would like to thank the original users who came up with the profile layout, th
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"> - [[C++](https://www.cplusplus.com/)] <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" width="40"> - [[C](https://www.w3schools.in/c-tutorial/install/)]
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-plain.svg" width="40"> - [[PHP](https://www.php.net/)] 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.svg" width="40"> - [[GO](https://golang.org/)] 
 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="40"> - [[PY](https://www.python.org/)] <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" width="40"> - [[HTML](https://www.w3schools.com/html/)] 
 
 ### some languages i have some knowledge or planning to learn ^
