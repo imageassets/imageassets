@@ -7,7 +7,7 @@
 
 # Description 📙
 
-### am four owner of summrs and pro python  ~~skid~~ coder
+## I'm four owner of summrs and pro python  ~~skid~~ coder
 
 average 15 y/o who just plays games 
 
